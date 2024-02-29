@@ -1,0 +1,34 @@
+
+
+git clone
+
+git add
+
+git commit
+
+git push
+
+
+
+~/tibero/lacle_bero_std   
+
+comflict 
+
+
+local 영역이 있고, 중앙이 있어
+
+touch README
+
+vi .git 으로 변경사항 확인 가능.
+
+
+git status  >> add 봐
+git log    >> commit 상황 봐 / 변경사항 볼 수 있어
+
+
+git commit -m "init study
+
+git push origin master
+
+
+"
